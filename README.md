@@ -20,5 +20,5 @@ Please follow these steps to generate the tidy data from Samsung data
 
 5. Output the tidy data set to a txt file using this
 
-    write.table(tidyDT,file="tidyData_Average.txt",row.names=FALSE)   
+    write.table(tidyDT,file="tidyDataAverage.txt",row.names=FALSE)   
 
